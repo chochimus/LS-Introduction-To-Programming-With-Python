@@ -8,7 +8,7 @@ countries = {
     }
 
 def get_country(name):
-    print(person[name])
+    print(countries[name])
 
 get_country('Alice')
 
