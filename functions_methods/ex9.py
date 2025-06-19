@@ -1,0 +1,1 @@
+# code will print on separate lines 42, 3.141592, 2.718
